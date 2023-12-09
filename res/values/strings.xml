@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Money Converter</string>
+    <string name="val_convert">val_convert</string>
+    <string name="exit_btn">EXIT</string>
+    <string name="hintedittextval2convert">insert a numeric value here</string>
+    <string name="DinarEuro">Dinar --> Euro</string>
+    <string name="EuroDinar">Euro --> Dinar</string>
+    <string name="convert_b">convert</string>
+    <string name="textresult">The result will be displayed here</string>
+
+</resources>
